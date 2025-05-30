@@ -10,7 +10,7 @@ export default function Header() {
             />
             <h2 className="header--title">Memeify</h2>
             <p>Where memes come alive!</p>
-            <h4 className="header--project"></h4>
+      
         </header>
     )
 }
