@@ -39,8 +39,6 @@ Welcome to *Memeify*, a modern and responsive meme generator web app built with 
 
 
 ## Getting Started
-
-
 1. **Clone the repo:**
 
    ```
